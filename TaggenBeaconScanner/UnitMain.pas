@@ -1,5 +1,5 @@
 //---------------------------------------------------------------------------
-// Copyright (c) 2019 Taggen Sistemas
+// Copyright (c) Taggen Sistemas 2019
 //
 // http://www.taggen.com.br
 //
